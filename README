@@ -1,7 +1,9 @@
 paperclip-in-attachment_fu-clothing
 ===================================
 
-Description goes here.
+An evil twin of the paperclip plugin to make it a little easier to migrate away from attachment_fu.
+
+Right now, all it does it make the id partitioning work like attachment_fu.
 
 COPYRIGHT
 =========
